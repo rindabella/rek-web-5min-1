@@ -1,0 +1,9 @@
+php 7.0
+ kelebihannya yaitu  php 7.0 ; 
+1. penyempuranaan Kinerja ; PHP 7.0 Menawarkan peningkatan signifikan dalam kinerja ibandingkan dengan versi sebelumnya. Ini berarti aplikasi web yang dibangun dengan PHP 7.0 akan berjalan lebih cepat dan memerlukan sumber daya server yang lebih sedikit. 
+2. Type Hinting: PHP 7.0 memperkenalkan dukungan untuk type hinting, yang membantu pengembang dalam mengelola tipe data parameter fungsi dan metode. 
+3. Operator Null Coalescing: Operator null coalescing (??) mempermudah pengelolaan nilai-nilai null dalam ekspresi. 
+4. Deklarasi Skalar Return: PHP 7.0 memungkinkan fungsi untuk mendeklarasikan tipe data skalar yang dikembalikan. 
+
+Kekurangannya php 7.0 ; 
+1. Kompatibilitas: Pengguna yang memiliki kode PHP lama mungkin mengalami beberapa masalah kompatibilitas saat memperbarui ke PHP 7.0 karena perubahan sintaks dan perilaku.
